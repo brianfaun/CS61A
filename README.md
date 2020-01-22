@@ -1,4 +1,4 @@
-# CS 61A 
+# CS 61A (Fall 2019)
 
 Course Description:
 
